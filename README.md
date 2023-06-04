@@ -1,4 +1,4 @@
-![logo](https://github.com/hibrahimkotann/hibrahimkotann/blob/main/banner.png)
+![logo](https://github.com/hibrahimkotann/hibrahimkotann/blob/main/Electrical%20and%20Electronics%20Engineer%2CMSc.png)
 <h1 align="center">Hi 👋, I'm Halil İbrahim KOTAN</h1>
 <h3 align="center">Electrical and Electronics Engineer,MSc |Certified Salesforce Developer ,Certified Salesforce Administrator| Trailhead Double Star Ranger | 10X Superbadges | Apex Trigger | Flow | CPQ | JIRA | SDLC | SOQL | SOSL |</h3>
 <h4 align="center">   I am a Salesforce certified professional with expertise in both administration and development in Salesforce CRM. Since my first days at Salesforce, my focus has been on enabling organizations to maximize their efficiency by utilizing Salesforce to its fullest potential.
