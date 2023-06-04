@@ -1,6 +1,19 @@
 ![logo](https://github.com/hibrahimkotann/hibrahimkotann/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Halil İbrahim KOTAN</h1>
 <h3 align="center">Electrical and Electronics Engineer,MSc |Certified Salesforce Developer ,Certified Salesforce Administrator| Trailhead Double Star Ranger | 10X Superbadges | Apex Trigger | Flow | CPQ | JIRA | SDLC | SOQL | SOSL |</h3>
+<h4 align="center">   I am a Salesforce certified professional with expertise in both administration and development in Salesforce CRM. Since my first days at Salesforce, my focus has been on enabling organizations to maximize their efficiency by utilizing Salesforce to its fullest potential.
+ </h4>
+ <h5 align="center"> I have expertise in  </h5>
+  <h6 align="center">  
+ ⚡ Apex programming language, web services, email services, SOSL, SOQL,
+ ⚡ Apex Trigger, Synchronous Apex, Asynchronous Apex, Test Classes, Apex Sharing
+ ⚡ Lightning Web Component (LWC), Aura Components and CPQ
+ ⚡ VisualForce, SLDC, Git, Github, Agile Methodology, Jira
+ ⚡ Salesforce API and Web service integration
+ ⚡ Usage and integration of Salesforce REST APIs
+ ⚡ Data import/export and synchronization with external resources
+ ⚡ Consumption and integration of SOAP and RESTful Web services
+  </h6>
 
 <img align="right" alt ="coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
