@@ -24,8 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/halil-ibrahim-kotan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halil-ibrahim-kotan" height="30" width="40" /></a>
-</p>
-<p align="left">
+ align="left">
   <a href="https://linkedin.com/in/halil-ibrahim-kotan" target="_blank">
     <i class="fab fa-salesforce salesforce-icon"></i>
   </a>
